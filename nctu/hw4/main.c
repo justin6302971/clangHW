@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
+//計算某正整數的任連續兩數字相加是否相同
 int checkN(int n);
-
 int digitSum(int n);
 int main()
 {
